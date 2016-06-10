@@ -1,0 +1,4 @@
+development:
+    driver: mysql
+    open: user=root dbname=mydb sslmode=disable
+
